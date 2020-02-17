@@ -22,3 +22,7 @@ With the current working shell directory set to your `Hello World` folder. You s
 ```
 Hello World
 ```
+
+{% hint style="info" %}
+Hello world
+{% endhint %}
