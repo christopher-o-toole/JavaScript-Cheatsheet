@@ -11,9 +11,9 @@ See Microsoft's [tutorial](https://code.visualstudio.com/docs/nodejs/nodejs-tuto
 ## Hello World 
 
 Create a new project folder titled `Hello World`. Then add a new file named `app.js` to the folder with the following content:
-```javascript
+
 {% include "Examples/Hello-NodeJS/app.js" %}
-```
+
 To run the file, just execute
 ```
 node ./app.js
