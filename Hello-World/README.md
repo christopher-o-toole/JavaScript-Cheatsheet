@@ -12,7 +12,7 @@ See Microsoft's [tutorial](https://code.visualstudio.com/docs/nodejs/nodejs-tuto
 
 Create a new project folder titled `Hello World`. Then add a new file named `app.js` to the folder with the following content:
 
-{% include "../Examples/Hello-NodeJS/app.js" %}
+[include](../Examples/Hello-NodeJS/app.js)
 
 To run the file, just execute
 ```
